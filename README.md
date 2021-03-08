@@ -1,2 +1,2 @@
 # decision-science-test
-my analytical projects
+my analytical test-projects
